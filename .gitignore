@@ -14,4 +14,4 @@
 *.tar
 *.zip
 
-.idea/*
+.idea
