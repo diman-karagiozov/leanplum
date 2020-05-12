@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b39db838-5c3e-459c-9279-786c954b81d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bQjftVUvgAEDtSWrmUY6cd71xO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/leanplum/cases/spark/schema" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.leanplum.cases.spark" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.leanplum.cases.spark.jobs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leanplum.cases.spark.schema" />
+      <recent name="com.leanplum.cases.spark" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/leanplum/cases/spark/schema" />
+      <recent name="$PROJECT_DIR$/src/main/proto" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b39db838-5c3e-459c-9279-786c954b81d9" name="Default Changelist" comment="" />
+      <created>1588571317943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588571317943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="202" key="#Project_Structure" timestamp="1588583499180">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="463" y="202" key="#Project_Structure/49.23.1631.1027@49.23.1631.1027" timestamp="1588571453090" />
+    <state x="465" y="202" key="#Project_Structure/52.23.1628.1027@52.23.1628.1027" timestamp="1588583499180" />
+    <state x="676" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1588572458812">
+      <screen x="50" y="23" width="1630" height="1027" />
+    </state>
+    <state x="676" y="259" key="#com.intellij.ide.util.MemberChooser/50.23.1630.1027@50.23.1630.1027" timestamp="1588572458812" />
+    <state x="655" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588574850219">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state x="655" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/54.23.1626.1027@54.23.1626.1027" timestamp="1588574850219" />
+    <state x="629" y="403" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588572483712">
+      <screen x="50" y="23" width="1630" height="1027" />
+    </state>
+    <state x="629" y="403" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/50.23.1630.1027@50.23.1630.1027" timestamp="1588572483712" />
+    <state x="627" y="379" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1588574852458">
+      <screen x="54" y="23" width="1626" height="1027" />
+    </state>
+    <state x="627" y="379" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/54.23.1626.1027@54.23.1626.1027" timestamp="1588574852458" />
+    <state x="501" y="238" key="Maven.ArtifactSearchDialog" timestamp="1588573328651">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="499" y="238" key="Maven.ArtifactSearchDialog/49.23.1631.1027@49.23.1631.1027" timestamp="1588571518658" />
+    <state x="501" y="238" key="Maven.ArtifactSearchDialog/52.23.1628.1027@52.23.1628.1027" timestamp="1588573328651" />
+    <state x="523" y="293" width="683" height="486" key="find.popup" timestamp="1588583952316">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="521" y="293" width="683" height="486" key="find.popup/49.23.1631.1027@49.23.1631.1027" timestamp="1588571929526" />
+    <state x="523" y="293" width="683" height="486" key="find.popup/52.23.1628.1027@52.23.1628.1027" timestamp="1588583952316" />
+    <state x="530" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1588657897080">
+      <screen x="52" y="23" width="1628" height="1027" />
+    </state>
+    <state x="528" y="187" width="670" height="676" key="search.everywhere.popup/49.23.1631.1027@49.23.1631.1027" timestamp="1588597725181" />
+    <state x="529" y="187" width="670" height="676" key="search.everywhere.popup/50.23.1630.1027@50.23.1630.1027" timestamp="1588572258776" />
+    <state x="530" y="187" width="670" height="676" key="search.everywhere.popup/52.23.1628.1027@52.23.1628.1027" timestamp="1588657897080" />
+  </component>
+</project>
